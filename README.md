@@ -21,8 +21,7 @@ trabajo de grado que lo originó, el cual sí es de acceso público:
 📖 Puedes consultar la tesis aquí → [Tesis en el Repositorio
 Uniandes](https://repositorio.uniandes.edu.co/entities/publication/7d6afa04-d473-4783-8721-2c973d29764b)
 
-🎥 También puedes ver un demo del sistema aquí → [Video
-Demo](https://youtu.be/tUIDz98YYfA)
+
 
 > Actualmente, la tesis se encuentra **en desarrollo por un nuevo equipo
 > de estudiantes**, quienes están trabajando en el despliegue,
