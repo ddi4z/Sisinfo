@@ -21,6 +21,7 @@ trabajo de grado que lo originó, el cual sí es de acceso público:
 📖 Puedes consultar la tesis aquí → [Tesis en el Repositorio
 Uniandes](https://repositorio.uniandes.edu.co/entities/publication/7d6afa04-d473-4783-8721-2c973d29764b)
 
+📖 Puedes ver la demo aquí → [Demo](Sisinfo-demo.mp4)
 
 
 > Actualmente, la tesis se encuentra **en desarrollo por un nuevo equipo
