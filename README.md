@@ -48,7 +48,7 @@ Sisinfo fue desarrollado utilizando:
 
 ## 🧪 Pruebas
 
-Durante el desarrollo se implementaron diferentes tipos de pruebas para
+Durante el desarrollo se configuraron diferentes tipos de pruebas para
 asegurar la calidad del software:
 
 -   **Pruebas unitarias** (`npm run test`)
@@ -57,12 +57,16 @@ asegurar la calidad del software:
 -   **Monkeys testing** con Playwright
     (`npx playwright test 'gremlins.test.js'`)
 
+<img width="339" height="119" alt="image" src="https://github.com/user-attachments/assets/fc565262-5200-467d-a263-772bae200351" />
+
+
 ------------------------------------------------------------------------
 
 ## 📓 Control de calidad
 
 El proyecto fue validado con herramientas como **SonarQube** para
 evaluar métricas de calidad de código y cobertura de pruebas.
+<img width="1274" height="582" alt="image" src="https://github.com/user-attachments/assets/53e02455-82e1-41a6-95fa-4775c111ff88" />
 
 ------------------------------------------------------------------------
 
