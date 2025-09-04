@@ -6,83 +6,68 @@
 <h1 align="center">Sisinfo</h1>
 
 <p align="center">
-    Sisinfo es una aplicación web diseñada para gestionar múltiples tareas administrativas, como la aplicación a tesis, asistencias graduadas, publicación de ofertas de salones, entre otros. Desarrollada con <strong>Next.js</strong>, <strong>shadcn</strong>, <strong>Tailwind CSS</strong>, <strong>Zustand</strong> y <strong>TanStack Query</strong>.
+    Sisinfo is a web application designed to manage multiple administrative tasks, such as thesis applications, graduate assistantships, classroom offer postings, and more. Developed with <strong>Next.js</strong>, <strong>shadcn</strong>, <strong>Tailwind CSS</strong>, <strong>Zustand</strong>, and <strong>TanStack Query</strong>.
 </p>
 
 ------------------------------------------------------------------------
 
-## 📄 Nota importante
+## 📄 Important Note
 
-El código fuente de **Sisinfo** es **confidencial** y no puede ser
-compartido públicamente.
-Sin embargo, el proyecto está documentado de manera detallada en el
-trabajo de grado que lo originó, el cual sí es de acceso público:
+The **Sisinfo** source code is **confidential** and cannot be shared publicly.  
+However, the project is thoroughly documented in the original thesis, which **is** publicly accessible:
 
-📖 Puedes consultar la tesis aquí → [Tesis en el Repositorio
-Uniandes](https://repositorio.uniandes.edu.co/entities/publication/7d6afa04-d473-4783-8721-2c973d29764b)
+📖 You can consult the thesis here → [Thesis in the Uniandes Repository](https://repositorio.uniandes.edu.co/entities/publication/7d6afa04-d473-4783-8721-2c973d29764b)
 
-📖 Puedes ver la demo aquí → [Demo](Sisinfo-demo.mp4)
+📖 You can watch the demo here → [Demo](Sisinfo-demo.mp4)
 
-
-> Actualmente, la tesis se encuentra **en desarrollo por un nuevo equipo
-> de estudiantes**, quienes están trabajando en el despliegue,
-> corrección de errores y mejora de algunas funcionalidades.
+> Currently, the thesis is **under development by a new team of students**, who are working on deployment, bug fixing, and improving some functionalities.
 
 ------------------------------------------------------------------------
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 
-Sisinfo fue desarrollado utilizando:
+Sisinfo was developed using:
 
--   **Next.js**: Framework de React para aplicaciones modernas con
-    renderizado híbrido.
--   **shadcn**: Componentes UI accesibles y personalizables.
--   **Tailwind CSS**: Framework utilitario de CSS para diseño rápido.
--   **Zustand**: Manejo ligero de estado global.
--   **TanStack Query**: Gestión y sincronización de datos del servidor.
--   **Nest.js**: Servidor REST.
--   **Docker**: Orquestación de base de datos en desarrollo.
--   **Turborepo**: Manejador de monorepositorios.
--   **npm/yarn**: Gestores de dependencias.
+-   **Next.js**: React framework for modern applications with hybrid rendering.
+-   **shadcn**: Accessible and customizable UI components.
+-   **Tailwind CSS**: Utility-first CSS framework for rapid design.
+-   **Zustand**: Lightweight global state management.
+-   **TanStack Query**: Server data fetching and synchronization.
+-   **Nest.js**: REST server.
+-   **Docker**: Database orchestration in development.
+-   **Turborepo**: Monorepo management tool.
+-   **npm/yarn**: Package managers.
 
 ------------------------------------------------------------------------
 
-## 🧪 Pruebas
+## 🧪 Testing
 
-Durante el desarrollo se configuraron diferentes tipos de pruebas para
-asegurar la calidad del software:
+Different types of tests were configured during development to ensure software quality:
 
--   **Pruebas unitarias** (`npm run test`)
--   **Pruebas de cobertura** (`npm run test:cov`)
--   **Pruebas end-to-end** (`npm run test:e2e`)
--   **Monkeys testing** con Playwright
+-   **Unit tests** (`npm run test`)
+-   **Coverage tests** (`npm run test:cov`)
+-   **End-to-end tests** (`npm run test:e2e`)
+-   **Monkeys testing** with Playwright  
     (`npx playwright test 'gremlins.test.js'`)
 
 <img width="339" height="119" alt="image" src="https://github.com/user-attachments/assets/fc565262-5200-467d-a263-772bae200351" />
 
-
 ------------------------------------------------------------------------
 
-## 📓 Control de calidad
+## 📓 Quality Control
 
-El proyecto fue validado con herramientas como **SonarQube** para
-evaluar métricas de calidad de código y cobertura de pruebas.
+The project was validated with tools such as **SonarQube** to evaluate code quality metrics and test coverage.  
 <img width="1274" height="582" alt="image" src="https://github.com/user-attachments/assets/53e02455-82e1-41a6-95fa-4775c111ff88" />
 
 ------------------------------------------------------------------------
 
-## ⚙️ Instalación y despliegue
+## ⚙️ Installation and Deployment
 
-Dado que el código no puede hacerse público, los pasos de instalación,
-despliegue y configuración no están incluidos en este repositorio.
-Toda la información técnica de implementación se encuentra documentada
-en la tesis enlazada arriba.
+Since the code cannot be made public, the installation, deployment, and configuration steps are not included in this repository.  
+All technical implementation details are documented in the thesis linked above.
 
 ------------------------------------------------------------------------
 
-## 👥 Autores
+## 👥 Authors
 
-Este proyecto fue desarrollado en **equipo de tres desarrolladores**,
-como parte del proyecto de grado del programa de **Ingeniería de
-Sistemas y Computación** de la **Universidad de Los Andes**, bajo la
-asesoría de **Camilo Escobar-Velásquez, Ph.D.**
+This project was developed by a **team of three developers**, as part of the undergraduate thesis project of the **Systems and Computing Engineering** program at the **Universidad de Los Andes**, under the supervision of **Camilo Escobar-Velásquez, Ph.D.**
